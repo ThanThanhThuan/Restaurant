@@ -1,0 +1,1098 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TouchscreenRestaurantPOS
+</name>
+</assembly>
+<members>
+<member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.CurrencyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.DishDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.EmployeeRegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.HotelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.KitchenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.NotesMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.OtherSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PosGroupingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PosPrinterSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Product_OpeningStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Purchase_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.R_TableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RecipeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Recipe_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoEBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoHDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillEBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillHDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StockTransferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StockTransfer_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.SupplierLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.TempRestaurantPOS_OrderedProductKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.TempRestaurantPOS_OrderInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.WarehouseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.CurrencyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.DishRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.EmployeeRegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.HotelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.KitchenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.NotesMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.OtherSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PosGroupingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PosPrinterSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Product_OpeningStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Purchase_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.R_TableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RecipeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Recipe_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoEBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoHDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillEBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillHDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StockTransferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StockTransfer_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.SupplierLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.TempRestaurantPOS_OrderedProductKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.TempRestaurantPOS_OrderInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.WarehouseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.CurrencyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.DishRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.EmployeeRegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.HotelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.KitchenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.NotesMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.OtherSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PosGroupingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PosPrinterSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Product_OpeningStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.PurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Purchase_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.R_TableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RecipeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Recipe_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoEBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoHDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_BillingInfoTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillEBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillHDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderedProductKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.RestaurantPOS_OrderInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StockTransferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StockTransfer_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.SupplierLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.TempRestaurantPOS_OrderedProductKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.TempRestaurantPOS_OrderInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet.WarehouseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.CurrencyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.DishTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.EmployeeRegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.HotelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.KitchenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.NotesMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.OtherSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.PosGroupingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.PosPrinterSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.Product_OpeningStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.PurchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.Purchase_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.R_TableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RecipeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.Recipe_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_BillingInfoEBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_BillingInfoHDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_BillingInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_BillingInfoTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductBillEBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductBillHDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductBillKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductBillTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.StockTransferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.StockTransfer_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.SupplierLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TempRestaurantPOS_OrderedProductKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TempRestaurantPOS_OrderInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.WarehouseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TouchscreenRestaurantPOS.RPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TouchscreenRestaurantPOS.RPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TouchscreenRestaurantPOS.RPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(TouchscreenRestaurantPOS.RPOS_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.RPOS_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:TouchscreenRestaurantPOS.Encryption.Boring(System.String)">
+	<summary>
+ moving all characters in string insert then into new index
+ </summary>
+	<param name="st">string to moving characters</param>
+	<returns>moved characters string</returns>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources._1__16_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources._1__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources._1425837994checkIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Actions_help_about_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Activate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.AddFile_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Apps_preferences_desktop_user_password_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Apps_preferences_system_login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Building_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Button_Delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Button_Delete_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Button_Ok_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.category_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Close_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Computer_Hardware_Keyboard_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Crafting_Table_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.currency_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.currency_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Database_Active_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.database_check_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.dish_2_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Document_Text_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Expense_Tool_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.hotel_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Hotels_B_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Household_Kitchen_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Household_Kitchen_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.icon_cert1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.icon_restaurant">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.images4HM95FIT">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.keyboard_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.keyboard_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.keyboard_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.log_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.login_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Maximise_32X32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Maximise_48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Money_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Money_icon22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Normal_48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Note_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Notebook_Recipe_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.office_building">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Order_history_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.payment_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Person_Male_Light_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.print_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.product_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Programming_Maximize_Window_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Programming_Maximize_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Programming_Minimize_Window_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Programming_Minimize_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Programming_Sql_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.purchase_order">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.report_edit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Reports_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.restaurant_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.restaurant_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Restaurant_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Settings_L_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.shop_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.sql_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.transfer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Two_storied_house_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.User_Group_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.User_Interface_Restore_Window_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.User_Interface_Restore_Window_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.User_Interface_Restore_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.voucher_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.Warehouse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.warehouse_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TouchscreenRestaurantPOS.My.Resources.Resources.warehouse_5121">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:TouchscreenRestaurantPOS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

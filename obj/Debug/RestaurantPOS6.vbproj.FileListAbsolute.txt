@@ -1,0 +1,1689 @@
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbprojResolveAssemblyReference.cache
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaidorder.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPrintKitchenOrder.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockBalance.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockreport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmJournalEntries.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPO_CRViewer.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog21.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog20.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersList.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsCategory.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersExportImport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsModifiers.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsUsed.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store_Record.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse_Record.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesExportImport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppingsExportImport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzasExportImport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCategoriesExportImport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmGeneralLedger.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmUnit.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWaiterList.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCallerID.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCards_POS.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice_Report.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBarcodeLabelPrinting.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomer.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerBalance.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerLedger.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceipt.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceiptRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerRegistration.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomersList.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFreeToppingsList.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersExportImport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHDStatus.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHomeDelivery.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomer.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKDS.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrder.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrderRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTerminalSetting.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmToppingsList.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaMaster.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaPOS.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppings.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizza.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaSize.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog19.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonLedger.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSendBroadcastSMS.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog18.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberBalance.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberList.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberLedger.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMember.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOrderedItemDetails.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTipRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletList.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog17.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletType.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDatabase.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog16.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsExportImport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSMSSetting.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWPReport_CRViewer.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport_CRViewer.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog15.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog14.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecoveryPIN.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmailSetting.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSettings.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_RM.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_RM.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog13.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog12.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog11.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog10.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog9.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_StoreRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_StoreRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_StoreRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_Store.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog8.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog7.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog6.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog5.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesList.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriodReport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod_Del.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTickets.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog4.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog3.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog2.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog1.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipeRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipe.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpiredProductsRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUTRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLowStockRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockInRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransferRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransfer.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord_Unpaid.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouse.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouseType.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSplash.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCurrency.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTicketsRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes1.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOthersSetting.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotesMaster.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCamera.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeQty.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeeRegistration.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeesRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKitchen_Section.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeRate.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSHDRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSTARecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAccountingReport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAboutUs.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmActivation.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAvailableTables.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsCategory.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItem.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpense.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpenseType.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantMaster.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogin.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogs.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBackOffice.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOption.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplier.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplierRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPayment.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaymentRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProduct.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProductRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseEntry.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRegistration.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmReport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPOS.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTFinalBillRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSqlServerSetting.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTable.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucher.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucherRecord.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.Resources.resources
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbproj.GenerateResource.Cache
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.cache
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.compiled
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.rpt
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.vb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe.config
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.pdb
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.xml
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\stdole.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.exe
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.xml
+D:\Projects\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe.config
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.exe
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.xml
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.rpt
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.vb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.xml
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\stdole.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaidorder.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPrintKitchenOrder.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockBalance.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockreport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmJournalEntries.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPO_CRViewer.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog21.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog20.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersList.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsCategory.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersExportImport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsModifiers.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsUsed.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store_Record.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse_Record.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesExportImport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppingsExportImport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzasExportImport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCategoriesExportImport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmGeneralLedger.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmUnit.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWaiterList.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCallerID.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCards_POS.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice_Report.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBarcodeLabelPrinting.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomer.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerBalance.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerLedger.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceipt.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceiptRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerRegistration.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomersList.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFreeToppingsList.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersExportImport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHDStatus.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHomeDelivery.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomer.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKDS.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrder.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrderRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTerminalSetting.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmToppingsList.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaMaster.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaPOS.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppings.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizza.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaSize.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog19.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonLedger.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSendBroadcastSMS.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog18.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberBalance.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberList.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberLedger.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMember.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOrderedItemDetails.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTipRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletList.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog17.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletType.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDatabase.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog16.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsExportImport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSMSSetting.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWPReport_CRViewer.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport_CRViewer.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog15.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog14.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecoveryPIN.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmailSetting.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSettings.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_RM.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_RM.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog13.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog12.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog11.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog10.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog9.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_StoreRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_StoreRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_StoreRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_Store.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog8.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog7.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog6.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog5.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesList.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriodReport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod_Del.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTickets.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog4.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog3.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog2.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog1.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipeRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipe.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpiredProductsRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUTRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLowStockRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockInRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransferRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransfer.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord_Unpaid.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouse.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouseType.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSplash.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCurrency.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTicketsRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes1.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOthersSetting.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotesMaster.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCamera.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeQty.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeeRegistration.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeesRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKitchen_Section.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeRate.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSHDRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSTARecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAccountingReport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAboutUs.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmActivation.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAvailableTables.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsCategory.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItem.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpense.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpenseType.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantMaster.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogin.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogs.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBackOffice.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOption.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplier.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplierRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPayment.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaymentRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProduct.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProductRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseEntry.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRegistration.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmReport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPOS.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTFinalBillRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSqlServerSetting.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTable.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucher.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucherRecord.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.Resources.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbproj.GenerateResource.Cache
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.cache
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.compiled
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\FlashControlV71.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbprojResolveAssemblyReference.cache
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemOrder.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemEntry.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmstkTransfer.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProfitLoss.resources
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Ext.exe
+D:\Projects\Systemax\Restaurant\TouchscreenRestaurantPOS\bin\Debug\Ext.pdb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.rpt
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.vb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe.config
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.xml
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Ext.exe
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\FlashControlV71.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Spire.License.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Spire.Pdf.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Microsoft.mshtml.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\stdole.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Ext.pdb
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Spire.License.xml
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\Spire.Pdf.xml
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbprojResolveAssemblyReference.cache
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCashBook.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHappyHour.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmhmdlv.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSalesReport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemEntry.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemOrder.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaidorder.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPrintKitchenOrder.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProfitLoss.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmstkTransfer.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockBalance.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockreport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTakeAway.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmJournalEntries.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPO_CRViewer.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog21.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog20.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersList.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsCategory.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersExportImport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsModifiers.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsUsed.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store_Record.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse_Record.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesExportImport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppingsExportImport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzasExportImport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCategoriesExportImport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmGeneralLedger.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmUnit.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWaiterList.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCallerID.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCards_POS.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice_Report.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBarcodeLabelPrinting.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomer.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerBalance.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerLedger.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceipt.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceiptRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerRegistration.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomersList.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFreeToppingsList.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersExportImport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHDStatus.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHomeDelivery.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomer.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKDS.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrder.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrderRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTerminalSetting.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmToppingsList.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaMaster.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaPOS.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppings.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizza.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaSize.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog19.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonLedger.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSendBroadcastSMS.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog18.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberBalance.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberList.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberLedger.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMember.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOrderedItemDetails.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTipRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletList.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog17.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletType.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDatabase.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog16.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsExportImport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSMSSetting.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWPReport_CRViewer.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport_CRViewer.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog15.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog14.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecoveryPIN.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmailSetting.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSettings.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_RM.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_RM.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog13.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog12.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog11.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog10.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog9.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_Store.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog8.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog7.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog6.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog5.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesList.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriodReport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod_Del.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTickets.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog4.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog3.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog2.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog1.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipeRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipe.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpiredProductsRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUTRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLowStockRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockInRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransferRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransfer.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord_Unpaid.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouse.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouseType.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSplash.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCurrency.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTicketsRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes1.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOthersSetting.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotesMaster.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCamera.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeQty.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeeRegistration.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeesRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKitchen_Section.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeRate.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSHDRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSTARecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAccountingReport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAboutUs.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmActivation.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAvailableTables.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsCategory.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItem.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpense.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpenseType.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantMaster.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogin.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogs.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBackOffice.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOption.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplier.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplierRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPayment.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaymentRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProduct.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProductRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseEntry.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRegistration.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmReport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPOS.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTFinalBillRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSqlServerSetting.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTable.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucher.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucherRecord.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.Resources.resources
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbproj.GenerateResource.Cache
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.cache
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.compiled
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.exe
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.xml
+D:\Projects\Systemax\Restaurant - Copy\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.rpt
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.vb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe.config
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.xml
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Ext.exe
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\FlashControlV71.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Spire.License.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Spire.Pdf.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Microsoft.mshtml.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\stdole.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Ext.pdb
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Spire.License.xml
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\Spire.Pdf.xml
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbprojResolveAssemblyReference.cache
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCashBook.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHappyHour.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmhmdlv.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMainWHValuation.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSalesExpensesOverview.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSalesReport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockUsge.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemEntry.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemOrder.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaidorder.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPrintKitchenOrder.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProfitLoss.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmstkTransfer.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockBalance.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockreport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTakeAway.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmJournalEntries.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPO_CRViewer.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog21.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog20.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersList.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsCategory.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsModifiers.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsUsed.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store_Record.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse_Record.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppingsExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzasExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCategoriesExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmGeneralLedger.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmUnit.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWaiterList.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCallerID.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCards_POS.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice_Report.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBarcodeLabelPrinting.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomer.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerBalance.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerLedger.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceipt.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceiptRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerRegistration.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomersList.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFreeToppingsList.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHDStatus.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHomeDelivery.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomer.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKDS.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrder.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrderRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTerminalSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmToppingsList.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaMaster.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaPOS.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppings.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizza.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaSize.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog19.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonLedger.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSendBroadcastSMS.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog18.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberBalance.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberList.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberLedger.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMember.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOrderedItemDetails.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTipRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletList.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog17.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletType.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDatabase.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog16.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSMSSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWPReport_CRViewer.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport_CRViewer.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog15.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog14.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecoveryPIN.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmailSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSettings.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_RM.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_RM.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog13.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog12.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog11.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog10.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog9.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_Store.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog8.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog7.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog6.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog5.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesList.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriodReport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod_Del.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTickets.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog4.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog3.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog2.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog1.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipeRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipe.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpiredProductsRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUTRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLowStockRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockInRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransferRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransfer.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord_Unpaid.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouse.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouseType.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSplash.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCurrency.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTicketsRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes1.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOthersSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotesMaster.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCamera.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeQty.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeeRegistration.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeesRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKitchen_Section.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeRate.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSHDRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSTARecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAccountingReport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAboutUs.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmActivation.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAvailableTables.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsCategory.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItem.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpense.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpenseType.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantMaster.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogin.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogs.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBackOffice.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOption.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplier.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplierRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPayment.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaymentRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProduct.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProductRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseEntry.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRegistration.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmReport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPOS.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTFinalBillRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSqlServerSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTable.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucher.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucherRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.Resources.resources
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbproj.GenerateResource.Cache
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.cache
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.compiled
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.exe
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.xml
+D:\Projects\Systemax\Restaurant - FINAL\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe.config
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.exe
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.xml
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.rpt
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.vb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.pdb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.xml
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Ext.exe
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\FlashControlV71.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Spire.License.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Spire.Pdf.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Microsoft.mshtml.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\stdole.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Ext.pdb
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Spire.License.xml
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Spire.Pdf.xml
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbprojResolveAssemblyReference.cache
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCashBook.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHappyHour.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmhmdlv.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMainWHValuation.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSalesExpensesOverview.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSalesReport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockUsge.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemEntry.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemOrder.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaidorder.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPrintKitchenOrder.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProfitLoss.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmstkTransfer.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockBalance.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockreport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTakeAway.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmJournalEntries.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPO_CRViewer.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog21.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog20.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersList.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsCategory.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsModifiers.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsUsed.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store_Record.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse_Record.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppingsExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzasExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCategoriesExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmGeneralLedger.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmUnit.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWaiterList.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCallerID.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCards_POS.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice_Report.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBarcodeLabelPrinting.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomer.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerBalance.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerLedger.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceipt.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceiptRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerRegistration.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomersList.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFreeToppingsList.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHDStatus.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHomeDelivery.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomer.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKDS.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrder.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrderRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTerminalSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmToppingsList.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaMaster.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaPOS.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppings.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizza.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaSize.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog19.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonLedger.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSendBroadcastSMS.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog18.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberBalance.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberList.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberLedger.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMember.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOrderedItemDetails.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTipRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletList.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog17.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletType.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDatabase.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog16.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsExportImport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSMSSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWPReport_CRViewer.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport_CRViewer.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog15.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog14.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecoveryPIN.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmailSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSettings.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_RM.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_RM.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog13.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog12.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog11.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog10.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog9.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_StoreRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_Store.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog8.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog7.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog6.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog5.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesList.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriodReport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod_Del.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTickets.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog4.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog3.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog2.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog1.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipeRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipe.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpiredProductsRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUTRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLowStockRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockInRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransferRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransfer.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord_Unpaid.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouse.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouseType.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSplash.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCurrency.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTicketsRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes1.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOthersSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotesMaster.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCamera.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeQty.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeeRegistration.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeesRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKitchen_Section.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeRate.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSHDRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSTARecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAccountingReport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAboutUs.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmActivation.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAvailableTables.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsCategory.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItem.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpense.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpenseType.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantMaster.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogin.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogs.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBackOffice.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOption.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplier.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplierRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPayment.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaymentRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProduct.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProductRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseEntry.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRegistration.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmReport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPOS.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTFinalBillRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSqlServerSetting.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTable.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucher.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucherRecord.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.Resources.resources
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbproj.GenerateResource.Cache
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.cache
+D:\Projects\Systemax\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RdlCompile.compiled
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.rpt
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptWorkPeriod.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice1.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTemp_FinalBillKOTInvoice.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTUpdatedInvoice_Kitchen.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRecipe.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptStockTransferInvoice.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptStockTransfer.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEB.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice_Kitchen.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSEBInvoice.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice_Kitchen.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice_Kitchen.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice_Kitchen.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHD.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTA.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSHDInvoice.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSTAInvoice.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptCreditors.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptExpenses.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptMenuItems.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptGeneralDayBook.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptGeneralLedger.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptPurchase.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptPurchaseDayBook.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOS.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRestaurantPOSKOTInvoice.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS1.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS2.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS3.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptRPOS4.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptSupplierLedger.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptTrialBalance.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\rptVoucher.vb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe.config
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.exe
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.pdb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\RestaurantPOS6.xml
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Ext.exe
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Spire.License.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Spire.Pdf.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\ShockwaveFlashObjects.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.Dmf.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\stdole.dll
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Ext.pdb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Ext.exe.config
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Spire.License.xml
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\bin\Debug\Spire.Pdf.xml
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbprojAssemblyReference.cache
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCashBook.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHappyHour.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmhmdlv.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMainWHValuation.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSalesExpensesOverview.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSalesReport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockUsge.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemEntry.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseItemOrder.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaidorder.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPrintKitchenOrder.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProfitLoss.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmstkTransfer.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockBalance.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockreport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTakeAway.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmJournalEntries.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPO_CRViewer.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog21.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog20.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersList.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsCategory.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmModifiersExportImport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsModifiers.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRawMaterialsUsed.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Store_Record.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockAdjustment_Warehouse_Record.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesExportImport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppingsExportImport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzasExportImport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCategoriesExportImport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmGeneralLedger.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmUnit.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWaiterList.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCallerID.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCards_POS.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice_Report.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBarcodeLabelPrinting.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomer.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerBalance.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerLedger.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceipt.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerReceiptRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomerRegistration.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCreditCustomersList.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFreeToppingsList.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersExportImport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHDStatus.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmHomeDelivery.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomer.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKDS.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrder.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseOrderRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTerminalSetting.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmToppingsList.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaMaster.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaPOS.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaToppings.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizza.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPizzaSize.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog19.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonLedger.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSendBroadcastSMS.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog18.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberBalance.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberList.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMemberLedger.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMember.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOrderedItemDetails.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTipRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletList.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog17.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWalletType.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDatabase.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog16.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsExportImport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSMSSetting.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWPReport_CRViewer.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport_CRViewer.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog15.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog14.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecoveryPIN.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmailSetting.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSettings.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_RM.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_RM.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog13.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog12.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog11.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog10.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog9.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockIn_StoreRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUT_StoreRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_StoreRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStock_Store.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog8.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog7.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog6.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog5.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTablesList.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriodReport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod_Del.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTickets.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog4.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog3.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog2.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomDialog1.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWorkPeriod.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmFrontOffice.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipeRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRecipe.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpiredProductsRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockOUTRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLowStockRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockInRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransferRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmStockTransfer.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord_Unpaid.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouse.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmWarehouseType.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSEBRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSplash.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCurrency.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOpenTicketsRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes1.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmDeliveryPersonRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOthersSetting.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotesMaster.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCamera.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeQty.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmCustomersRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeeRegistration.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmEmployeesRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmKitchen_Section.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmChangeRate.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSHDRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSTARecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAccountingReport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAboutUs.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmActivation.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmAvailableTables.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItemsCategory.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmMenuItem.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpense.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmExpenseType.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantMaster.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogin.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmLogs.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmBackOffice.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmNotes.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmOption.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplier.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSupplierRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPayment.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPaymentRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProduct.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmProductRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseEntry.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPurchaseRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRegistration.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmReport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmPOS.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRestaurantPOSKOTFinalBillRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmRPOSReport.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmSqlServerSetting.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmTable.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucher.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmVoucherRecord.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.Resources.resources
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbproj.GenerateResource.cache
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbproj.CoreCompileInputs.cache
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.vbproj.CopyComplete
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.exe
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.xml
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.pdb
+H:\ProjectsVB17\Restaurant - FINAL - NEW\TouchscreenRestaurantPOS\obj\Debug\RestaurantPOS6.frmInventory.resources

@@ -1,0 +1,2806 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RestaurantPOS6
+</name>
+</assembly>
+<members>
+<member name="T:RestaurantPOS6.RPOS_DBDataSet1.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerLedgerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CurrencyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.DishDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.EmailSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.EmployeeRegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.GridGroupingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.HDCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.HotelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.KitchenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltyMemberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltyMemberLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltySettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.MemberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.MemberLedgerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ModifiersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.NotesMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.OtherSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaSizeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaToppingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosGroupingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosGrouping1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosPrinterSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Product_OpeningStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Purchase_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseOrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseOrder_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.R_TableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RecipeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Recipe_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoEBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoHDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillEBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillHDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RMCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SMSSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Stock_StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Stock_Store_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockAdjustment_StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockAdjustment_WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockTransferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockTransfer_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SupplierLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.tblOrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_Stock_RMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_Stock_StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.UnitMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WalletDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WarehouseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WorkPeriodEndDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WorkPeriodStartDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerLedgerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CurrencyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.DishRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.EmailSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.EmployeeRegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.GridGroupingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.HDCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.HotelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.KitchenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltyMemberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltyMemberLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltySettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.MemberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.MemberLedgerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ModifiersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.NotesMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.OtherSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaSizeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaToppingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosGroupingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosGrouping1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosPrinterSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Product_OpeningStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Purchase_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseOrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseOrder_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.R_TableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RecipeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Recipe_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoEBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoHDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillEBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillHDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RMCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SMSSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Stock_StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Stock_Store_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockAdjustment_StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockAdjustment_WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockTransferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockTransfer_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SupplierLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.tblOrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_Stock_RMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_Stock_StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.UnitMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WalletRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WarehouseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WorkPeriodEndRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WorkPeriodStartRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerLedgerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CreditCustomerPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.CurrencyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.DishRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.EmailSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.EmployeeRegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.GridGroupingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.HDCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.HotelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.KitchenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltyMemberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltyMemberLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.LoyaltySettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.MemberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.MemberLedgerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ModifiersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.NotesMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.OtherSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaSizeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PizzaToppingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosGroupingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosGrouping1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PosPrinterSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Product_OpeningStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Purchase_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseOrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.PurchaseOrder_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.R_TableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RecipeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Recipe_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoEBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoHDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_BillingInfoTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillEBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillHDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductBillTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderedProductKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RestaurantPOS_OrderInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.RMCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SMSSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Stock_StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Stock_Store_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockAdjustment_StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockAdjustment_WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockTransferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.StockTransfer_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.SupplierLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.tblOrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_Stock_RMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Temp_Stock_StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.UnitMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WalletRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WarehouseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WorkPeriodEndRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1.WorkPeriodStartRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.CreditCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.CreditCustomerLedgerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.CreditCustomerPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.CurrencyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.DishTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.EmailSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.EmployeeRegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.GridGroupingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.HDCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.HotelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.KitchenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.LoyaltyMemberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.LoyaltyMemberLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.LoyaltySettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.MemberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.MemberLedgerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.ModifiersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.NotesMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.OtherSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PizzaMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PizzaSizeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PizzaToppingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PosGroupingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PosGrouping1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PosPrinterSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Product_OpeningStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PurchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Purchase_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PurchaseOrderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.PurchaseOrder_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.R_TableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RecipeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Recipe_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_BillingInfoEBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_BillingInfoHDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_BillingInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_BillingInfoTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_OrderedProductBillEBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_OrderedProductBillHDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_OrderedProductBillKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_OrderedProductBillTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_OrderedProductKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RestaurantPOS_OrderInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.RMCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.SMSSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Stock_StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Stock_Store_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.StockAdjustment_StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.StockAdjustment_WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.StockTransferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.StockTransfer_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.SupplierLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.tblOrderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Temp_Stock_RMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Temp_Stock_StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.UnitMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.WalletTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.WarehouseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.WorkPeriodEndTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.WorkPeriodStartTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(RestaurantPOS6.RPOS_DBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(RestaurantPOS6.RPOS_DBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(RestaurantPOS6.RPOS_DBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.TableAdapterManager.UpdateAll(RestaurantPOS6.RPOS_DBDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerLedgerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CurrencyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.DishDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.EmailSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.EmployeeRegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.GridGroupingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.HDCustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.HotelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.KitchenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltyMemberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltyMemberLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltySettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.MemberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.MemberLedgerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.NotesMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.OtherSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaSizeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaToppingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosGroupingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosGrouping1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosPrinterSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Product_OpeningStockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Purchase_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.R_TableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RecipeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Recipe_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoEBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoHDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillEBDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillHDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SMSSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Stock_StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Stock_Store_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.StockTransferDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.StockTransfer_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SupplierLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.tblOrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_Stock_RMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_Stock_StoreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WalletDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WarehouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WarehouseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WorkPeriodEndDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WorkPeriodStartDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerLedgerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CurrencyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.DishRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.EmailSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.EmployeeRegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.GridGroupingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.HDCustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.HotelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.KitchenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltyMemberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltyMemberLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltySettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.MemberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.MemberLedgerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.NotesMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.OtherSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaSizeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaToppingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosGroupingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosGrouping1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosPrinterSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Product_OpeningStockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Purchase_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.R_TableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RecipeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Recipe_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoEBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoHDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillEBRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillHDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SMSSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Stock_StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Stock_Store_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.StockTransferRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.StockTransfer_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SupplierLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.tblOrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_Stock_RMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_Stock_StoreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WalletRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WarehouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WarehouseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WorkPeriodEndRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WorkPeriodStartRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerLedgerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CreditCustomerPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.CurrencyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.DishRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.EmailSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.EmployeeRegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.GridGroupingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.HDCustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.HotelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.KitchenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltyMemberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltyMemberLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.LoyaltySettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.MemberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.MemberLedgerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.NotesMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.OtherSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaSizeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PizzaToppingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosGroupingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosGrouping1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PosPrinterSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Product_OpeningStockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.PurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Purchase_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.R_TableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RecipeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Recipe_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoEBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoHDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_BillingInfoTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillEBRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillHDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductBillTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderedProductKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.RestaurantPOS_OrderInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SMSSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Stock_StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Stock_Store_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.StockTransferRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.StockTransfer_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.SupplierLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.tblOrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_Stock_RMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Temp_Stock_StoreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WalletRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WarehouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WarehouseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WorkPeriodEndRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet.WorkPeriodStartRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.CreditCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.CreditCustomerLedgerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.CreditCustomerPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.CurrencyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.DishTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.EmailSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.EmployeeRegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.GridGroupingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.HDCustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.HotelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.KitchenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.LoyaltyMemberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.LoyaltyMemberLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.LoyaltySettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.MemberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.MemberLedgerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.NotesMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.OtherSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.PizzaMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.PizzaSizeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.PizzaToppingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.PosGroupingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.PosGrouping1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.PosPrinterSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Product_OpeningStockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.PurchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Purchase_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.R_TableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RecipeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Recipe_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_BillingInfoEBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_BillingInfoHDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_BillingInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_BillingInfoTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductBillEBTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductBillHDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductBillKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductBillTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderedProductKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.RestaurantPOS_OrderInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.SMSSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Stock_StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Stock_Store_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.StockTransferTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.StockTransfer_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.SupplierLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.tblOrderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Temp_Stock_RMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Temp_Stock_StoreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.WalletTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.WarehouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.WarehouseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.WorkPeriodEndTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.WorkPeriodStartTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(RestaurantPOS6.RPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(RestaurantPOS6.RPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(RestaurantPOS6.RPOS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:RestaurantPOS6.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(RestaurantPOS6.RPOS_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:RestaurantPOS6.RPOS_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:RestaurantPOS6.Encryption.Boring(System.String)">
+	<summary>
+ moving all characters in string insert then into new index
+ </summary>
+	<param name="st">string to moving characters</param>
+	<returns>moved characters string</returns>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources._1__16_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources._1__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources._1425837994checkIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Actions_help_about_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Actions_view_refresh_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Actions_view_refresh_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Activate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.AddFile_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.App_shutdown_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Apps_Dialog_Shutdown_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Apps_drawer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Apps_preferences_desktop_user_password_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Apps_preferences_system_login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Apps_preferences_system_login_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Apps_session_logout_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Building_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Button_Close_icon32X32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Button_Close_icon48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Button_Delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Button_Delete_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Button_Ok_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Calendar_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Calendar_iconPSB75GWN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Calendar22_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.calender_ics_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.category_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Close_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Computer_Hardware_Keyboard_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.CP">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.CP32X32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Crafting_Table_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.currency_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.currency_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Database_Active_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Database_Active_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.database_check_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.dish_2_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Document_Text_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.drawer_archive_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.drawer_archive_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Ecommerce_Pos_Terminal_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Entypo_e713_0__64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Entypo_e715_1__64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Expense_Tool_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Finance_Pos_Terminal_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.hotel_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Hotels_B_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Household_Kitchen_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Household_Kitchen_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.icon_cert1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.icon_pos_point_of_sale_systems_clover_dinerware_compressor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.icon_restaurant">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.images4HM95FIT">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.keyboard_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.keyboard_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.keyboard_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.log_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Log_Out_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.login_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Logout_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Maximise_32X32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Maximise_48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.ModernXP_09_Keyboard_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.ModernXP_09_Keyboard_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.ModernXP_09_Keyboard_icon__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Money_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Money_icon22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Normal_48X48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Note_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Notebook_Recipe_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.office_building">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Order_history_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.payment_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Person_Male_Light_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.print_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.product_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.product_sales_report_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Programming_Maximize_Window_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Programming_Maximize_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Programming_Minimize_Window_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Programming_Minimize_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Programming_Sql_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.purchase_order">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Register_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Reload_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.report_edit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.report_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Reports_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Reset2_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.restaurant_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.restaurant_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Restaurant_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Restaurant_icon11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Settings_L_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.shop_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.sql_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Status_wallet_open_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Stocks_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Tickets_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.transfer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Two_storied_house_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.User_Group_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.User_Interface_Restore_Window_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.User_Interface_Restore_Window_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.User_Interface_Restore_Window_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.voucher_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.Warehouse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.warehouse_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RestaurantPOS6.My.Resources.Resources.warehouse_5121">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:RestaurantPOS6.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
